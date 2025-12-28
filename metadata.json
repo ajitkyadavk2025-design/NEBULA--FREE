@@ -1,0 +1,9 @@
+{
+  "name": "Nebula Gemini Clone",
+  "description": "A high-performance Gemini-like interface with a vibrant gradient background and support for text, images, video generation, and real-time audio interactions.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
